@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: f9350bbf011a41242a0cbb1e4c7c115c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Asteroid
+    100002: Asteroid_Mining
+    100004: Asteroide
+    100006: joint1
+    100008: joint10
+    100010: joint11
+    100012: joint2
+    100014: joint3
+    100016: joint4
+    100018: joint5
+    100020: joint6
+    100022: joint7
+    100024: joint8
+    100026: joint9
+    100028: mining
+    100030: polySurface10
+    100032: polySurface11
+    100034: polySurface12
+    100036: polySurface13
+    100038: polySurface14
+    100040: polySurface15
+    100042: polySurface2
+    100044: polySurface3
+    100046: polySurface4
+    100048: polySurface5
+    100050: polySurface6
+    100052: polySurface7
+    100054: polySurface8
+    100056: polySurface9
+    100058: //RootNode
+    100060: Recolector_Mineral:anillo
+    100062: Recolector_Mineral:anillo 1
+    100064: Recolector_Mineral:Aro
+    100066: Recolector_Mineral:Aro 1
+    100068: Recolector_Mineral:Aro 2
+    100070: Recolector_Mineral:Aro 3
+    100072: Recolector_Mineral:Aro 4
+    100074: Recolector_Mineral:Aro 5
+    100076: Recolector_Mineral:brazoIzq
+    100078: Recolector_Mineral:Brazos
+    100080: Recolector_Mineral:Cuerpo
+    100082: Recolector_Mineral:Eje
+    100084: Recolector_Mineral:eje
+    100086: Recolector_Mineral:Eje 1
+    100088: Recolector_Mineral:eje 1
+    100090: Recolector_Mineral:eje 2
+    100092: Recolector_Mineral:eje 3
+    100094: Recolector_Mineral:G_Rueda_Der
+    100096: Recolector_Mineral:G_Rueda_Izq
+    100098: Recolector_Mineral:Oruga
+    100100: Recolector_Mineral:Oruga 1
+    100102: Recolector_Mineral:Pinza
+    100104: Recolector_Mineral:Rueda_1
+    100106: Recolector_Mineral:Rueda_1 1
+    100108: Recolector_Mineral:Rueda_2
+    100110: Recolector_Mineral:Rueda_2 1
+    100112: Recolector_Mineral:Rueda_3
+    100114: Recolector_Mineral:Rueda_3 1
+    100116: Recolector_Mineral:Ruedas
+    100118: Recolector_Mineral:Soporte
+    100120: Recolector_Mineral:Taladro
+    100122: Robot
+    400000: Asteroid
+    400002: Asteroid_Mining
+    400004: Asteroide
+    400006: joint1
+    400008: joint10
+    400010: joint11
+    400012: joint2
+    400014: joint3
+    400016: joint4
+    400018: joint5
+    400020: joint6
+    400022: joint7
+    400024: joint8
+    400026: joint9
+    400028: mining
+    400030: polySurface10
+    400032: polySurface11
+    400034: polySurface12
+    400036: polySurface13
+    400038: polySurface14
+    400040: polySurface15
+    400042: polySurface2
+    400044: polySurface3
+    400046: polySurface4
+    400048: polySurface5
+    400050: polySurface6
+    400052: polySurface7
+    400054: polySurface8
+    400056: polySurface9
+    400058: //RootNode
+    400060: Recolector_Mineral:anillo
+    400062: Recolector_Mineral:anillo 1
+    400064: Recolector_Mineral:Aro
+    400066: Recolector_Mineral:Aro 1
+    400068: Recolector_Mineral:Aro 2
+    400070: Recolector_Mineral:Aro 3
+    400072: Recolector_Mineral:Aro 4
+    400074: Recolector_Mineral:Aro 5
+    400076: Recolector_Mineral:brazoIzq
+    400078: Recolector_Mineral:Brazos
+    400080: Recolector_Mineral:Cuerpo
+    400082: Recolector_Mineral:Eje
+    400084: Recolector_Mineral:eje
+    400086: Recolector_Mineral:Eje 1
+    400088: Recolector_Mineral:eje 1
+    400090: Recolector_Mineral:eje 2
+    400092: Recolector_Mineral:eje 3
+    400094: Recolector_Mineral:G_Rueda_Der
+    400096: Recolector_Mineral:G_Rueda_Izq
+    400098: Recolector_Mineral:Oruga
+    400100: Recolector_Mineral:Oruga 1
+    400102: Recolector_Mineral:Pinza
+    400104: Recolector_Mineral:Rueda_1
+    400106: Recolector_Mineral:Rueda_1 1
+    400108: Recolector_Mineral:Rueda_2
+    400110: Recolector_Mineral:Rueda_2 1
+    400112: Recolector_Mineral:Rueda_3
+    400114: Recolector_Mineral:Rueda_3 1
+    400116: Recolector_Mineral:Ruedas
+    400118: Recolector_Mineral:Soporte
+    400120: Recolector_Mineral:Taladro
+    400122: Robot
+    2300000: Asteroide
+    2300002: polySurface10
+    2300004: polySurface11
+    2300006: polySurface12
+    2300008: polySurface13
+    2300010: polySurface14
+    2300012: polySurface15
+    2300014: polySurface2
+    2300016: polySurface3
+    2300018: polySurface4
+    2300020: polySurface5
+    2300022: polySurface6
+    2300024: polySurface7
+    2300026: polySurface8
+    2300028: polySurface9
+    2300030: Recolector_Mineral:anillo
+    2300032: Recolector_Mineral:anillo 1
+    2300034: Recolector_Mineral:Aro
+    2300036: Recolector_Mineral:Aro 1
+    2300038: Recolector_Mineral:Aro 2
+    2300040: Recolector_Mineral:Aro 3
+    2300042: Recolector_Mineral:Aro 4
+    2300044: Recolector_Mineral:Aro 5
+    2300046: Recolector_Mineral:Eje
+    2300048: Recolector_Mineral:eje
+    2300050: Recolector_Mineral:Eje 1
+    2300052: Recolector_Mineral:eje 1
+    2300054: Recolector_Mineral:eje 2
+    2300056: Recolector_Mineral:eje 3
+    2300058: Recolector_Mineral:Oruga
+    2300060: Recolector_Mineral:Oruga 1
+    3300000: Asteroide
+    3300002: polySurface10
+    3300004: polySurface11
+    3300006: polySurface12
+    3300008: polySurface13
+    3300010: polySurface14
+    3300012: polySurface15
+    3300014: polySurface2
+    3300016: polySurface3
+    3300018: polySurface4
+    3300020: polySurface5
+    3300022: polySurface6
+    3300024: polySurface7
+    3300026: polySurface8
+    3300028: polySurface9
+    3300030: Recolector_Mineral:anillo
+    3300032: Recolector_Mineral:anillo 1
+    3300034: Recolector_Mineral:Aro
+    3300036: Recolector_Mineral:Aro 1
+    3300038: Recolector_Mineral:Aro 2
+    3300040: Recolector_Mineral:Aro 3
+    3300042: Recolector_Mineral:Aro 4
+    3300044: Recolector_Mineral:Aro 5
+    3300046: Recolector_Mineral:Eje
+    3300048: Recolector_Mineral:eje
+    3300050: Recolector_Mineral:Eje 1
+    3300052: Recolector_Mineral:eje 1
+    3300054: Recolector_Mineral:eje 2
+    3300056: Recolector_Mineral:eje 3
+    3300058: Recolector_Mineral:Oruga
+    3300060: Recolector_Mineral:Oruga 1
+    4300000: polySurface2
+    4300002: polySurface3
+    4300004: polySurface4
+    4300006: polySurface5
+    4300008: polySurface6
+    4300010: polySurface7
+    4300012: polySurface8
+    4300014: polySurface9
+    4300016: polySurface10
+    4300018: polySurface11
+    4300020: polySurface12
+    4300022: polySurface13
+    4300024: polySurface14
+    4300026: polySurface15
+    4300028: Asteroide
+    4300030: Recolector_Mineral:Cuerpo
+    4300032: Recolector_Mineral:Pinza
+    4300034: Recolector_Mineral:Soporte
+    4300036: Recolector_Mineral:Taladro
+    4300038: Recolector_Mineral:Oruga
+    4300040: Recolector_Mineral:Aro
+    4300042: Recolector_Mineral:eje
+    4300044: Recolector_Mineral:Aro
+    4300046: Recolector_Mineral:eje
+    4300048: Recolector_Mineral:Eje
+    4300050: Recolector_Mineral:Aro
+    4300052: Recolector_Mineral:anillo
+    4300054: Recolector_Mineral:Oruga
+    4300056: Recolector_Mineral:Aro
+    4300058: Recolector_Mineral:eje
+    4300060: Recolector_Mineral:Aro
+    4300062: Recolector_Mineral:eje
+    4300064: Recolector_Mineral:Eje
+    4300066: Recolector_Mineral:Aro
+    4300068: Recolector_Mineral:anillo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Recolector_Mineral:Cuerpo
+    13700002: Recolector_Mineral:Pinza
+    13700004: Recolector_Mineral:Soporte
+    13700006: Recolector_Mineral:Taladro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

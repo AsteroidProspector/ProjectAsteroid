@@ -1,9 +1,20 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="..\CarreraEspacial\Assets\scripts\scriptNave.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\LogicaColision.js">
     <Files>
-      <File FileName="..\CarreraEspacial\Assets\scripts\scriptNave.js" Line="107" Column="25" />
-      <File FileName="..\CarreraEspacial\Assets\scripts\scriptCamara.js" Line="9" Column="2" />
+      <File FileName="Assets\scripts\scriptDistancias.js" Line="101" Column="3" />
+      <File FileName="Assets\scripts\scriptCamara.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\scriptAnimacionNave.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\logicaOrbitas2.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\logicaDetectaDistancias.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Menu.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\scriptVidaNave.js" Line="12" Column="2" />
+      <File FileName="Assets\scripts\scriptNave.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\scriptNave2.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Information.js" Line="15" Column="11" />
+      <File FileName="Assets\scripts\LogicaColision.js" Line="28" Column="19" />
+      <File FileName="Assets\scripts\Colision.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\logicaOrbitas.js" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

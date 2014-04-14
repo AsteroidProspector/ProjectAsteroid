@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 2afe9a63bc6e6284193dd9633a35e85e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: anillo
+    100002: anillo 1
+    100004: Aro
+    100006: Aro 1
+    100008: Aro 2
+    100010: Aro 3
+    100012: Aro 4
+    100014: Aro 5
+    100016: brazoder
+    100018: brazoIzq
+    100020: brazoizq
+    100022: Brazos
+    100024: columna
+    100026: Cuerpo
+    100028: Eje
+    100030: eje
+    100032: Eje 1
+    100034: eje 1
+    100036: eje 2
+    100038: eje 3
+    100040: G_Rueda_Der
+    100042: G_Rueda_Izq
+    100044: joint10
+    100046: joint11
+    100048: joint13
+    100050: joint15
+    100052: joint15 1
+    100054: joint15 2
+    100056: joint15 3
+    100058: joint15 4
+    100060: joint15 5
+    100062: joint16
+    100064: joint16 1
+    100066: joint16 2
+    100068: joint16 3
+    100070: joint16 4
+    100072: joint16 5
+    100074: joint3
+    100076: joint4
+    100078: joint5
+    100080: joint7
+    100082: joint8
+    100084: joint9
+    100086: Oruga
+    100088: Oruga 1
+    100090: Pinza
+    100092: //RootNode
+    100094: Robot1
+    100096: rueda1_sk
+    100098: rueda1_sk_izq
+    100100: rueda2_sk
+    100102: rueda2_sk_izq
+    100104: rueda3_sk
+    100106: rueda3_sk_izq
+    100108: Rueda_1
+    100110: Rueda_1 1
+    100112: Rueda_2
+    100114: Rueda_2 1
+    100116: Rueda_3
+    100118: Rueda_3 1
+    100120: Ruedas
+    100122: Soporte
+    100124: Taladro
+    100126: taladro1
+    400000: anillo
+    400002: anillo 1
+    400004: Aro
+    400006: Aro 1
+    400008: Aro 2
+    400010: Aro 3
+    400012: Aro 4
+    400014: Aro 5
+    400016: brazoder
+    400018: brazoIzq
+    400020: brazoizq
+    400022: Brazos
+    400024: columna
+    400026: Cuerpo
+    400028: Eje
+    400030: eje
+    400032: Eje 1
+    400034: eje 1
+    400036: eje 2
+    400038: eje 3
+    400040: G_Rueda_Der
+    400042: G_Rueda_Izq
+    400044: joint10
+    400046: joint11
+    400048: joint13
+    400050: joint15
+    400052: joint15 1
+    400054: joint15 2
+    400056: joint15 3
+    400058: joint15 4
+    400060: joint15 5
+    400062: joint16
+    400064: joint16 1
+    400066: joint16 2
+    400068: joint16 3
+    400070: joint16 4
+    400072: joint16 5
+    400074: joint3
+    400076: joint4
+    400078: joint5
+    400080: joint7
+    400082: joint8
+    400084: joint9
+    400086: Oruga
+    400088: Oruga 1
+    400090: Pinza
+    400092: //RootNode
+    400094: Robot1
+    400096: rueda1_sk
+    400098: rueda1_sk_izq
+    400100: rueda2_sk
+    400102: rueda2_sk_izq
+    400104: rueda3_sk
+    400106: rueda3_sk_izq
+    400108: Rueda_1
+    400110: Rueda_1 1
+    400112: Rueda_2
+    400114: Rueda_2 1
+    400116: Rueda_3
+    400118: Rueda_3 1
+    400120: Ruedas
+    400122: Soporte
+    400124: Taladro
+    400126: taladro1
+    2300000: anillo
+    2300002: anillo 1
+    2300004: Eje
+    2300006: eje
+    2300008: Eje 1
+    2300010: eje 1
+    2300012: eje 2
+    2300014: eje 3
+    2300016: Oruga
+    2300018: Oruga 1
+    3300000: anillo
+    3300002: anillo 1
+    3300004: Eje
+    3300006: eje
+    3300008: Eje 1
+    3300010: eje 1
+    3300012: eje 2
+    3300014: eje 3
+    3300016: Oruga
+    3300018: Oruga 1
+    4300000: Cuerpo
+    4300002: Pinza
+    4300004: Soporte
+    4300006: Taladro
+    4300008: Oruga
+    4300010: Aro
+    4300012: eje
+    4300014: Aro
+    4300016: eje
+    4300018: Eje
+    4300020: Aro
+    4300022: anillo
+    4300024: Oruga
+    4300026: Aro
+    4300028: eje
+    4300030: Aro
+    4300032: eje
+    4300034: Eje
+    4300036: Aro
+    4300038: anillo
+    7400000: Caminar
+    7400002: AcomodarTaladro
+    7400004: Taladrar
+    7400006: VuelveTaladro
+    7400008: AcomodaTaladro
+    7400010: VuelveTaladro
+    9500000: //RootNode
+    13700000: Aro
+    13700002: Aro 1
+    13700004: Aro 2
+    13700006: Aro 3
+    13700008: Aro 4
+    13700010: Aro 5
+    13700012: Cuerpo
+    13700014: Pinza
+    13700016: Soporte
+    13700018: Taladro
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Caminar
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AcomodarTaladro
+      takeName: Take 001
+      firstFrame: 10
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Taladrar
+      takeName: Take 001
+      firstFrame: 20
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: VuelveTaladro
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AcomodaTaladro
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: VuelveTaladro
+      takeName: Take 001
+      firstFrame: 35
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: columna
+        weight: 1
+      - path: columna/brazoder
+        weight: 1
+      - path: columna/brazoder/joint7
+        weight: 1
+      - path: columna/brazoder/joint7/joint8
+        weight: 1
+      - path: columna/brazoder/joint7/joint8/joint9
+        weight: 1
+      - path: columna/brazoizq
+        weight: 1
+      - path: columna/brazoizq/joint3
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4
+        weight: 1
+      - path: columna/brazoizq/joint3/joint4/joint5
+        weight: 1
+      - path: columna/joint10
+        weight: 1
+      - path: columna/joint11
+        weight: 1
+      - path: Robot1
+        weight: 1
+      - path: Robot1/Brazos
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Soporte
+        weight: 1
+      - path: Robot1/Brazos/brazoIzq/Taladro
+        weight: 1
+      - path: Robot1/Brazos/Pinza
+        weight: 1
+      - path: Robot1/Cuerpo
+        weight: 1
+      - path: Robot1/Ruedas
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/anillo
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Oruga
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/Aro
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_1/eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/Aro 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_2/eje 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Aro 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Der/Rueda_3/Eje
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/anillo 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Oruga 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/Aro 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_1 1/eje 2
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/Aro 4
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_2 1/eje 3
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Aro 5
+        weight: 1
+      - path: Robot1/Ruedas/G_Rueda_Izq/Rueda_3 1/Eje 1
+        weight: 1
+      - path: rueda1_sk
+        weight: 1
+      - path: rueda1_sk/joint15
+        weight: 1
+      - path: rueda1_sk/joint16
+        weight: 1
+      - path: rueda1_sk_izq
+        weight: 1
+      - path: rueda1_sk_izq/joint15 1
+        weight: 1
+      - path: rueda1_sk_izq/joint16 1
+        weight: 1
+      - path: rueda2_sk
+        weight: 1
+      - path: rueda2_sk/joint15 2
+        weight: 1
+      - path: rueda2_sk/joint16 2
+        weight: 1
+      - path: rueda2_sk_izq
+        weight: 1
+      - path: rueda2_sk_izq/joint15 3
+        weight: 1
+      - path: rueda2_sk_izq/joint16 3
+        weight: 1
+      - path: rueda3_sk
+        weight: 1
+      - path: rueda3_sk/joint15 4
+        weight: 1
+      - path: rueda3_sk/joint16 4
+        weight: 1
+      - path: rueda3_sk_izq
+        weight: 1
+      - path: rueda3_sk_izq/joint15 5
+        weight: 1
+      - path: rueda3_sk_izq/joint16 5
+        weight: 1
+      - path: taladro1
+        weight: 1
+      - path: taladro1/joint13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

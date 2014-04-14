@@ -105,4 +105,5 @@ function Update () {
 	}
 	
 	transform.rotation.y=0;
+	Debug.Log(transform.rotation.y);
 }

@@ -19,7 +19,7 @@
 	<DebugType>full</DebugType>
 	<Optimize>false</Optimize>
 	<OutputPath>Temp\bin\Debug\</OutputPath>
-	<DefineConstants>DEBUG;TRACE;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;ENABLE_SUBSTANCE;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
+	<DefineConstants>DEBUG;TRACE;UNITY_METRO;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_AUDIO_FMOD;ENABLE_WINRT_PINVOKE;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;UNITY_WINRT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_SERIALIZATION_BY_CODEGENERATION;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;UNITY_4_3_4;UNITY_4_3;ENABLE_PROFILER;UNITY_METRO_8_1;UNITY_EDITOR;UNITY_EDITOR_WIN</DefineConstants>
 	<ErrorReport>prompt</ErrorReport>
 	<WarningLevel>4</WarningLevel>
 	<NoWarn>0169</NoWarn>
@@ -39,20 +39,41 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/PlaybackEngines/MetroSupport/Tools/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
 	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\logicaOrbitas.js" />
-     <Compile Include="Assets\logicaOrbitas2.js" />
+     <Compile Include="Assets\Last\scripts\Rotate_planeta.js" />
+     <Compile Include="Assets\Last\scripts\movimiento_planetas.js" />
+     <Compile Include="Assets\Last\scritps\gravedad_planeta.js" />
+     <Compile Include="Assets\Last\scritps\movimiento.js" />
+     <Compile Include="Assets\minerales\logica_cubom.js" />
+     <Compile Include="Assets\scripts\Colision.js" />
+     <Compile Include="Assets\scripts\Information.js" />
+     <Compile Include="Assets\scripts\LogicaColision.js" />
+     <Compile Include="Assets\scripts\Menu.js" />
+     <Compile Include="Assets\scripts\RotationEllipse.js" />
+     <Compile Include="Assets\scripts\Teclado-01.js" />
+     <Compile Include="Assets\scripts\Traslation.js" />
+     <Compile Include="Assets\scripts\logicaDetectaDistancias.js" />
+     <Compile Include="Assets\scripts\logicaOrbitas.js" />
+     <Compile Include="Assets\scripts\logicaOrbitas2.js" />
+     <Compile Include="Assets\scripts\scriptAnimacionNave.js" />
      <Compile Include="Assets\scripts\scriptCamara.js" />
+     <Compile Include="Assets\scripts\scriptDistancias.js" />
      <Compile Include="Assets\scripts\scriptNave.js" />
+     <Compile Include="Assets\scripts\scriptNave2.js" />
+     <Compile Include="Assets\scripts\scriptTranslateCamera.js" />
+     <Compile Include="Assets\scripts\scriptVidaNave.js" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\skybox 1\Note.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{5E74D805-5167-2637-F4C3-860147371231}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
       <Project>{638B7494-C486-634E-5BF4-0036A868DCFC}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
